@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Madlips</string>
+    <string name="welcomeText">Hello and welcome to Madlips! I will ask you to fill in some words
+        to complete a story. You will not be able to view the story until all words are filled
+        in. Please select a story below and click to begin.</string>
+    <string name="instructions">Fill in the words to complete the story.</string>
+    <string name="expectedWord">Expected word</string>
+    <string name="simpleText"><![CDATA[I wannabe a <job> when I grow up. Just like my dad. Life is <adjective> like that!]]></string>
+    <string name="tarzanText"><![CDATA["One of the most <adjective> characters in fiction is named
+"Tarzan of the <plural-noun> ." Tarzan was raised by a/an
+<noun> and lives in the <adjective> jungle in the
+heart of darkest <place> . He spends most of his time
+eating <plural-noun> and swinging from tree to <noun> .
+Whenever he gets angry, he beats on his chest and says,
+" <funny-noise> !" This is his war cry. Tarzan always dresses in
+<adjective> shorts made from the skin of a/an <noun>
+and his best friend is a/an <adjective> chimpanzee named
+Cheetah. He is supposed to be able to speak to elephants and
+<plural-noun> . In the movies, Tarzan is played by <person's-name> ."]]></string>
+    <string name="universityText"><![CDATA["Our American universities offer students many <adjective>
+courses that will prepare them to become professional <plural-noun> .
+You can get a degree as a Bachelor of <plural-noun> or take a
+regular liberal <plural-noun> course. Or, if you want to become
+a/an <adjective> engineer, you can study <adjective> mathematics
+and differential <plural-noun> . Then, after <number> years, if
+you want to continue your studies you can write a/an <noun> and
+become a Doctor of <plural-noun> .
+
+When you get out into the <adjective> world, if you have a diploma
+from a university, you will be able to get a job easily as a/an <job-title>
+or even a/an <job-title> . If you don't have a diploma, you may have to take
+a job as a <noun> .
+
+Remember, it's important that you study hard in high school so you are able
+to do well on your college entrance <plural-noun> . It is true that "a little
+learning is a/an <adjective> thing.""]]></string>
+    <string name="clothesText"><![CDATA["<male-name> has announced that his <adjective>
+clothing store in the heart of downtown <city> is having
+a/an <adjective> sale of all merchandise, including
+<unusual-adjective> suits and slightly irregular <plural-noun>
+available. Men's cable-knit <plural-noun> , only $15.99.
+Hand-woven Italian <plural-noun> , 1/2-price. Double-
+breasted cashmere <plural-noun> , $50.00. Genuine imported
+<color!> <adjective> shoes, <exciting-adjective> hankerchiefs,
+and women's embroidered <plural-noun> , all at rock-bottom prices.
+This is a chance to get some really <interesting-adjective> bargains."]]></string>
+    <string name="danceText"><![CDATA[\""Here's how you dance the Monstrosity. Stand with your feet together.
+Now, move your left foot <adverb> to the side. Now stamp your
+right foot <number> times and put your hands on your partner's
+<plural-noun> . Next, you both <verb> slowly to the right and bend
+your <body-part> backward. For the next eight counts,
+both of you <verb> <adverb> to the left. Next, you and
+your partner stand back to back and wiggle your <plural-noun> and
+slap your <plural-noun> together. Don't forget to keep stamping
+your right foot. Now, face your partner again, put your <plural-noun>
+together and shout, " <funny-noise> !" Now, <verb> backward
+and repeat the whole thing <number> times. If you feel that you can't
+learn this dance, you can always <verb> the next one out."\"]]></string>
+</resources>
